@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Harsh Kumar
-- 👀 I’m interested in Competetive Programming and Web Devlopment 
+- 👀 I’m interested in competitive programming and Web Devlopment 
 - 🌱 I’m currently learning Web Devlopment and Machine Learning 
 
 
