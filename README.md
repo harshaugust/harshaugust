@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @harshaugust
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m @Harsh Kumar
+- 👀 I’m interested in Competetive Programming and Web Devlopment 
+- 🌱 I’m currently learning Web Devlopment and Machine Learning 
+
+
 
 <!---
 harshaugust/harshaugust is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
